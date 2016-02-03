@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,700');
+
+* {
+  text-rendering: optimizelegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1, h2, h3 {
+  font-family: source sans pro, sans-serif;
+  font-weight: 300;
+}
+
+h1 {
+  color: #25a;
+}
+
+h2 {
+  font-size: 1.6em;
+}
+
+.options {
+  margin-top: 1.6em;
+}
+
+.bold {
+  font-weight: 600;
+}
